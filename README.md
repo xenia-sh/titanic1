@@ -3,8 +3,8 @@
 This is my first ever repository for DS/ML solutions.                                                                                     
 The programming language in which the solutions are written (by their authors and adopted by me) is R. 
 
-Important note - I did not copy and paste their code, nor fork a kernel from Kaggle and debug it. The solution was done line by line, occasionally modifying what's suggested, and is not entirely the same. 
-_____________________________________________________________________________________________________________________________________
+Important note - I did not copy and paste their code, nor fork a kernel from Kaggle and debug it. The solution was done line by line, occasionally modifying what's suggested, and is not entirely the same.
+_______________________________________________________________________________________________________________________________________
 
 Titanic survival prediction problem is a challenge for beginners at Kaggle.                                                               
 The first solution is by Megan Risdal, it's using mice imputation method and random forest prediction model.                               
