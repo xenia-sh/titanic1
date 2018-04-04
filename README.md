@@ -3,9 +3,9 @@
 This is my first ever repository for DS/ML solutions.
 The programming language in which the solutions are written (by their authors and adopted by me) is R. 
 
-Titanic survival prediction problem is a challenge for beginners at Kaggle. 
-The first solution is by Megan Risdal, it's using mice imputation method and random forest prediction model. 
-The second solution is by Trevor Stephens, it's also using random forest prediction and somewhat more creative feature engineering.  
+Titanic survival prediction problem is a challenge for beginners at Kaggle.                                                               
+The first solution is by Megan Risdal, it's using mice imputation method and random forest prediction model.                               
+The second solution is by Trevor Stephens, it's also using random forest prediction and somewhat more creative feature engineering.       
 Score of both these solutions is close to 81% prediction accuracy.
 
 The challenge is to predict which passengers will die and which - survive upon knowing their certain characteristics (age, class, ticket price, gender).
